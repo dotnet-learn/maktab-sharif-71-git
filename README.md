@@ -1,12 +1,9 @@
 # Git Commands
 
-`
-Fork this repository and clone that
-<br />
-Create a branch for your self
-<br />
-Add your name
-`
+- Fork this repository and clone that
+- Create a branch for your self
+- Add your name
+
 
 # Your names
 
