@@ -1,5 +1,20 @@
 # Git Commands
 
-## pls enter your names
+- Fork this repository and clone that
+- Create a branch for your self
+- Add your name
 
-Alireza Samei
+
+# Your names
+Ahmad Emami
+<br />
+masoud maleki smirk
+<br />
+Amirhossein ghasemi
+<br />
+Amirmohammad Asadpour
+<br />
+##imanelahy
+<br />
+Alireza samei
+<!-- //iman elahy maktab71 -->
